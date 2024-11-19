@@ -1,0 +1,25 @@
+h1{
+    color:yellowgreen;
+    font-family: serif;
+  }
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    margin-top: 10px;
+    padding: auto;
+    color: rgb(236, 160, 68);
+    
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url('sky.jpg'); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-color: blue;
+    color:blueviolet; 
+  }

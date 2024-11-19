@@ -1,0 +1,26 @@
+
+.home-container {
+    text-align: center;
+    padding: 200px;
+    background-image: url('background.jpg'); 
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; 
+    height: 305px;
+    width: 1135px;
+
+  }
+  
+  h2 {
+    color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    margin-right: 10px
+  }
+  .Button {
+    margin-right: 10px;
+  }  
